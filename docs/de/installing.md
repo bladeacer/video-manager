@@ -4,16 +4,16 @@
 
 Diese Anleitung hilft Ihnen bei der Installation des Projekts.
 
-## Inhaltsverzeichnis
+<!-- ## Inhaltsverzeichnis -->
 
 <!--toc:start-->
-- [Installieren](#installieren)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Nativer Weg mit Go](#nativer-weg-mit-go)
-  - [Mit Homebrew](#mit-homebrew)
-  - [Alle Betriebssysteme](#alle-betriebssysteme)
-    - [GNU/Linux oder MacOS](#gnulinux-oder-macos)
-    - [WindowsOS](#windowsos)
+<!-- - [Installieren](#installieren) -->
+<!--   - [Inhaltsverzeichnis](#inhaltsverzeichnis) -->
+<!--   - [Nativer Weg mit Go](#nativer-weg-mit-go) -->
+<!--   - [Mit Homebrew](#mit-homebrew) -->
+<!--   - [Alle Betriebssysteme](#alle-betriebssysteme) -->
+<!--     - [GNU/Linux oder MacOS](#gnulinux-oder-macos) -->
+<!--     - [WindowsOS](#windowsos) -->
 <!--toc:end-->
 
 ## Nativer Weg mit Go
@@ -46,7 +46,7 @@ Laden Sie die gültigen Tarballs für Ihr Betriebssystem in unseren [Veröffentl
 tar -xf video-manager_* video-manager && mv video-manager /usr/local/bin/video-manager
 ```
 
-### WindowsOS
+### Windows
 
 ```sh
 # Entpacken des Tarballs

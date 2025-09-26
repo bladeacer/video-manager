@@ -2,7 +2,7 @@
 
 # Konfiguration
 
-## Inhaltsverzeichnis
+<!-- ## Inhaltsverzeichnis -->
 
 <!--toc:start-->
 * [Inhaltsverzeichnis](#inhaltsverzeichnis)

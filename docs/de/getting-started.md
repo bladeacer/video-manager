@@ -4,14 +4,14 @@
 
 Diese Anleitung bietet einen Überblick über die verschiedenen Funktionen und Optionen.
 
-## Inhaltsverzeichnis
+<!-- ## Inhaltsverzeichnis -->
 
 <!--toc:start-->
-- [Erste Schritte](#erste-schritte)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Übersicht](#übersicht)
-  - [Beispielverwendung](#beispielverwendung)
-  - [Siehe auch](#siehe-auch)
+<!-- - [Erste Schritte](#erste-schritte) -->
+<!--   - [Inhaltsverzeichnis](#inhaltsverzeichnis) -->
+<!--   - [Übersicht](#übersicht) -->
+<!--   - [Beispielverwendung](#beispielverwendung) -->
+<!--   - [Siehe auch](#siehe-auch) -->
 <!--toc:end-->
 
 ## Übersicht

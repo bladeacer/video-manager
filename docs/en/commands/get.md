@@ -2,17 +2,17 @@
 
 This command downloads files from URL(s) to your configured download location.
 
-## Table of contents
+<!-- ## Table of contents -->
 
 <!--toc:start-->
-- [Basic usage](#basic-usage)
-- [Filename](#filename)
-- [Options](#options)
-  - [-f, --file](#f-file)
-  - [-s, --strategy [synchronous|concurrent]](#s-strategy-synchronousconcurrent)
-  - [-m, --max-concurrency [0 = unlimited]](#m-max-concurrency-0-unlimited)
-  - [Inherited](#inherited)
-- [See also](#see-also)
+<!-- - [Basic usage](#basic-usage) -->
+<!-- - [Filename](#filename) -->
+<!-- - [Options](#options) -->
+<!--   - [-f, --file](#f-file) -->
+<!--   - [-s, --strategy [synchronous|concurrent]](#s-strategy-synchronousconcurrent) -->
+<!--   - [-m, --max-concurrency [0 = unlimited]](#m-max-concurrency-0-unlimited) -->
+<!--   - [Inherited](#inherited) -->
+<!-- - [See also](#see-also) -->
 <!--toc:end-->
 
 ## Basic usage

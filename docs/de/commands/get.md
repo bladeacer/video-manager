@@ -2,17 +2,17 @@
 
 Dieser Befehl lädt Dateien von URL(s) in Ihren konfigurierten Download-Ort herunter.
 
-## Inhaltsverzeichnis
+<!-- ## Inhaltsverzeichnis -->
 
 <!--toc:start-->
-- [Grundlegende Verwendung](#grundlegende-verwendung)
-- [Dateiname](#dateiname)
-- [Optionen](#optionen)
-  - [-f, --file](#f-file)
-  - [-s, --strategy [synchronous|concurrent]](#s-strategy-synchronousconcurrent)
-  - [-m, --max-concurrency [0 = unbegrenzt]](#m-max-concurrency-0-unbegrenzt)
-  - [Vererbt](#vererbt)
-- [Siehe auch](#siehe-auch)
+<!-- - [Grundlegende Verwendung](#grundlegende-verwendung) -->
+<!-- - [Dateiname](#dateiname) -->
+<!-- - [Optionen](#optionen) -->
+<!--   - [-f, --file](#f-file) -->
+<!--   - [-s, --strategy [synchronous|concurrent]](#s-strategy-synchronousconcurrent) -->
+<!--   - [-m, --max-concurrency [0 = unbegrenzt]](#m-max-concurrency-0-unbegrenzt) -->
+<!--   - [Vererbt](#vererbt) -->
+<!-- - [Siehe auch](#siehe-auch) -->
 <!--toc:end-->
 
 ## Grundlegende Verwendung

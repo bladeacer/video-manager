@@ -4,17 +4,17 @@
 
 The following commands are used to manage the configuration file.
 
-## Table of Contents
+<!-- ## Table of Contents -->
 
 <!--toc:start-->
-- [Config commands](#config-commands)
-  - [Table of Contents](#table-of-contents)
-  - [Commands](#commands)
-    - [init|create|reset|new <path?>](#initcreateresetnew-path)
-      - [-y, --yes](#y-yes)
-    - [where](#where)
-  - [Options](#options)
-  - [See also](#see-also)
+<!-- - [Config commands](#config-commands) -->
+<!--   - [Table of Contents](#table-of-contents) -->
+<!--   - [Commands](#commands) -->
+<!--     - [init|create|reset|new <path?>](#initcreateresetnew-path) -->
+<!--       - [-y, --yes](#y-yes) -->
+<!--     - [where](#where) -->
+<!--   - [Options](#options) -->
+<!--   - [See also](#see-also) -->
 <!--toc:end-->
 
 ## Commands
@@ -43,7 +43,7 @@ video-manager where
 
 ## Options
 
-Only [persistent options](./index,md/persistent-options) are supported.
+Only [persistent options](./index.md/persistent-options) are supported.
 
 ## See also
 

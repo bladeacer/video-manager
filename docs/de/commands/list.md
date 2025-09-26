@@ -4,18 +4,18 @@
 
 Dieser Befehl listet alle Videos in Ihrem konfigurierten Download-Ort auf.
 
-## Inhaltsverzeichnis
+<!-- ## Inhaltsverzeichnis -->
 
 <!--toc:start-->
-- [Inhaltsverzeichnis](#inhaltsverzeichnis)
-- [Grundlegende Verwendung](#grundlegende-verwendung)
-- [Optionen](#optionen)
-  - [-q, --query (Standardwert "")](#q-query-standardwert)
-  - [-n, --count [0 = unbegrenzt]](#n-count-0-unbegrenzt)
-  - [-a, --allow (Standardwert [])](#a-allow-standardwert)
-  - [-e, --exclude (Standardwert [])](#e-exclude-standardwert)
-  - [Vererbte](#vererbte)
-- [Siehe auch](#siehe-auch)
+<!-- - [Inhaltsverzeichnis](#inhaltsverzeichnis) -->
+<!-- - [Grundlegende Verwendung](#grundlegende-verwendung) -->
+<!-- - [Optionen](#optionen) -->
+<!--   - [-q, --query (Standardwert "")](#q-query-standardwert) -->
+<!--   - [-n, --count [0 = unbegrenzt]](#n-count-0-unbegrenzt) -->
+<!--   - [-a, --allow (Standardwert [])](#a-allow-standardwert) -->
+<!--   - [-e, --exclude (Standardwert [])](#e-exclude-standardwert) -->
+<!--   - [Vererbte](#vererbte) -->
+<!-- - [Siehe auch](#siehe-auch) -->
 <!--toc:end-->
 
 ## Grundlegende Verwendung

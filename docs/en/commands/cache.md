@@ -4,17 +4,17 @@
 
 The following commands are used to manage caches.
 
-## Table of Contents
+<!-- ## Table of Contents -->
 
 <!--toc:start-->
-- [Cache commands](#cache-commands)
-  - [Table of Contents](#table-of-contents)
-  - [Commands](#commands)
-    - [list|ls <pattern?>](#listls-pattern)
-    - [remove|rm <pattern>](#removerm-pattern)
-    - [clear|clr|wipe](#clearclrwipe)
-  - [Options](#options)
-  - [See also](#see-also)
+<!-- - [Cache commands](#cache-commands) -->
+<!--   - [Table of Contents](#table-of-contents) -->
+<!--   - [Commands](#commands) -->
+<!--     - [list|ls <pattern?>](#listls-pattern) -->
+<!--     - [remove|rm <pattern>](#removerm-pattern) -->
+<!--     - [clear|clr|wipe](#clearclrwipe) -->
+<!--   - [Options](#options) -->
+<!--   - [See also](#see-also) -->
 <!--toc:end-->
 
 ## Commands

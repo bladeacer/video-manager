@@ -2,16 +2,16 @@
 
 This command deletes files from the configured directory.
 
-## Table of Contents
+<!-- ## Table of Contents -->
 
 <!--toc:start-->
-- [The delete command](#the-delete-command)
-  - [Table of Contents](#table-of-contents)
-  - [Basic usage](#basic-usage)
-  - [Options](#options)
-    - [-y, --yes](#y-yes)
-    - [Inherited](#inherited)
-  - [See also](#see-also)
+<!-- - [The delete command](#the-delete-command) -->
+<!--   - [Table of Contents](#table-of-contents) -->
+<!--   - [Basic usage](#basic-usage) -->
+<!--   - [Options](#options) -->
+<!--     - [-y, --yes](#y-yes) -->
+<!--     - [Inherited](#inherited) -->
+<!--   - [See also](#see-also) -->
 <!--toc:end-->
 
 ## Basic usage

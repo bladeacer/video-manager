@@ -4,16 +4,16 @@
 
 This guide will help you install the project.
 
-## Table of Contents
+<!-- ## Table of Contents -->
 
 <!--toc:start-->
-- [Installing](#installing)
-  - [Table of Contents](#table-of-contents)
-  - [Natively with Go](#natively-with-go)
-  - [With Homebrew](#with-homebrew)
-  - [All Operating Systems](#all-operating-systems)
-    - [GNU/Linux or MacOS](#gnulinux-or-macos)
-    - [WindowsOS](#windowsos)
+<!-- - [Installing](#installing) -->
+<!--   - [Table of Contents](#table-of-contents) -->
+<!--   - [Natively with Go](#natively-with-go) -->
+<!--   - [With Homebrew](#with-homebrew) -->
+<!--   - [All Operating Systems](#all-operating-systems) -->
+<!--     - [GNU/Linux or MacOS](#gnulinux-or-macos) -->
+<!--     - [WindowsOS](#windowsos) -->
 <!--toc:end-->
 
 ## Natively with Go
@@ -46,7 +46,7 @@ Download the valid tarballs for your OS in our [releases](https://github.com/caf
 tar -xf video-manager_* video-manager && mv video-manager /usr/local/bin/video-manager
 ```
 
-### WindowsOS
+### Windows
 
 ```sh
 # Unzip tarball

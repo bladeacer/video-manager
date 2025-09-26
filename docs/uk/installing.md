@@ -46,7 +46,7 @@ bew install caffeine-addictt/tap/video-manager
 tar video-manager_* video-manager && mv video-manager /usr/local/bin/video-manager
 ```
 
-### WindowsOS
+### Windows
 
 ```sh
 # Розпакувати tarball

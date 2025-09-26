@@ -4,18 +4,18 @@
 
 This command lists all videos in your configured download location.
 
-## Table of contents
+<!-- ## Table of contents -->
 
 <!--toc:start-->
-- [Table of contents](#table-of-contents)
-- [Basic usage](#basic-usage)
-- [Options](#options)
-  - [-q, --query (defaults to "")](#q-query-defaults-to)
-  - [-n, --count [0 = unlimited]](#n-count-0-unlimited)
-  - [-a, --allow (defaults to [])](#a-allow-defaults-to)
-  - [-e, --exclude (defaults to [])](#e-exclude-defaults-to)
-  - [Inherited](#inherited)
-- [See also](#see-also)
+<!-- - [Table of contents](#table-of-contents) -->
+<!-- - [Basic usage](#basic-usage) -->
+<!-- - [Options](#options) -->
+<!--   - [-q, --query (defaults to "")](#q-query-defaults-to) -->
+<!--   - [-n, --count [0 = unlimited]](#n-count-0-unlimited) -->
+<!--   - [-a, --allow (defaults to [])](#a-allow-defaults-to) -->
+<!--   - [-e, --exclude (defaults to [])](#e-exclude-defaults-to) -->
+<!--   - [Inherited](#inherited) -->
+<!-- - [See also](#see-also) -->
 <!--toc:end-->
 
 ## Basic usage

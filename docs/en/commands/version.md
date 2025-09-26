@@ -2,11 +2,11 @@
 
 This command prints the current version of video-manager.
 
-## Table of contents
+<!-- ## Table of contents -->
 
 <!--toc:start-->
-- [Basic usage](#basic-usage)
-- [See also](#see-also)
+<!-- - [Basic usage](#basic-usage) -->
+<!-- - [See also](#see-also) -->
 <!--toc:end-->
 
 ## Basic usage

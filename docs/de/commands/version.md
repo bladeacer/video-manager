@@ -2,11 +2,11 @@
 
 Dieser Befehl gibt die aktuelle Version von video-manager aus.
 
-## Inhaltsverzeichnis
+<!-- ## Inhaltsverzeichnis -->
 
 <!--toc:start-->
-- [Grundlegende Verwendung](#grundlegende-verwendung)
-- [Siehe auch](#siehe-auch)
+<!-- - [Grundlegende Verwendung](#grundlegende-verwendung) -->
+<!-- - [Siehe auch](#siehe-auch) -->
 <!--toc:end-->
 
 ## Grundlegende Verwendung

@@ -4,17 +4,17 @@
 
 Die folgenden Befehle werden verwendet, um Caches zu verwalten.
 
-## Inhaltsverzeichnis
+<!-- ## Inhaltsverzeichnis -->
 
 <!--toc:start-->
-- [Cache-Befehle](#cache-befehle)
-  - [Inhaltsverzeichnis](#inhaltsverzeichnis)
-  - [Befehle](#befehle)
-    - [list|ls <Muster?>](#listls-muster)
-    - [remove|rm <Muster>](#removerm-muster)
-    - [clear|clr|wipe](#clearclrwipe)
-  - [Optionen](#optionen)
-  - [Siehe auch](#siehe-auch)
+<!-- - [Cache-Befehle](#cache-befehle) -->
+<!--   - [Inhaltsverzeichnis](#inhaltsverzeichnis) -->
+<!--   - [Befehle](#befehle) -->
+<!--     - [list|ls <Muster?>](#listls-muster) -->
+<!--     - [remove|rm <Muster>](#removerm-muster) -->
+<!--     - [clear|clr|wipe](#clearclrwipe) -->
+<!--   - [Optionen](#optionen) -->
+<!--   - [Siehe auch](#siehe-auch) -->
 <!--toc:end-->
 
 ## Befehle
@@ -62,7 +62,7 @@ video-manager cache clear
 
 ## Optionen
 
-Es werden nur [persistente Optionen](./index,md/persistent-options) unterstützt.
+Es werden nur [persistente Optionen](./index.md/persistent-options) unterstützt.
 
 ## Siehe auch
 

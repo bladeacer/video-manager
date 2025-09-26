@@ -4,17 +4,17 @@
 
 Los siguientes comandos son utilizados para administrar los archivos de configuración.
 
-## Tabla de contenidos
+<!-- ## Tabla de contenidos -->
 
 <!--toc:start-->
-- [Comandos de configuración](#comandos-de-configuración)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Comandos](#comandos)
-    - [init|create|reset|new \<path?\>](#initcreateresetnew-path)
-      - [-y, --yes](#-y---yes)
-    - [where](#where)
-  - [Opciones](#opciones)
-  - [Mira también](#mira-también)
+<!-- - [Comandos de configuración](#comandos-de-configuración) -->
+<!--   - [Tabla de contenidos](#tabla-de-contenidos) -->
+<!--   - [Comandos](#comandos) -->
+<!--     - [init|create|reset|new \<path?\>](#initcreateresetnew-path) -->
+<!--       - [-y, --yes](#-y---yes) -->
+<!--     - [where](#where) -->
+<!--   - [Opciones](#opciones) -->
+<!--   - [Mira también](#mira-también) -->
 <!--toc:end-->
 
 ## Comandos

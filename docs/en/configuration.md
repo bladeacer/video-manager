@@ -2,13 +2,13 @@
 
 # Configuration
 
-## Table of Contents
+<!-- ## Table of Contents -->
 
 <!--toc:start-->
-* [Table of Contents](#table-of-contents)
-* [Overview](#overview)
-* [Default configuration](#default-configuration)
-* [See Also](#see-also)
+<!-- * [Table of Contents](#table-of-contents) -->
+<!-- * [Overview](#overview) -->
+<!-- * [Default configuration](#default-configuration) -->
+<!-- * [See Also](#see-also) -->
 <!--toc:end-->
 
 ## Overview
