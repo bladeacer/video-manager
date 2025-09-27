@@ -30,8 +30,10 @@ video-manager list
 
 Запит для пошуку відеофайлів.
 
-> [!NOTE]
-> Підтримується RegExp.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+Підтримується RegExp.
+</div>
 
 ```sh
 video-manager list -q "запит" # Перевірить, чи "запит" є в імені файлу
@@ -54,8 +56,10 @@ video-manager list -a mp4,mkv
 video-manager list -a mp4 -a mkv
 ```
 
-> [!NOTE]
-> Це не можна використовувати з `--exclude`.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+Це не можна використовувати з `--exclude`.
+</div>
 
 ### -e, --exclude (за замовчуванням [])
 
@@ -68,8 +72,10 @@ video-manager list -e mp4,mkv
 video-manager list -e mp4 -e mkv
 ```
 
-> [!NOTE]
-> Це не можна використовувати з `--allow`.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+Це не можна використовувати з `--allow`.
+</div>
 
 ### Успадковані
 

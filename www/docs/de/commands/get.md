@@ -31,8 +31,11 @@ Dateinamen werden aus dem letzten Teil der URL generiert.
 
 Beispielweise wird bei der URL `https://video-site.com/video.mp4` der Dateiname `video.mp4` sein.
 
-> [!IMPORTANT]
-> Das bedeutet auch, dass der Dateiname `video` ist, wenn die URL `https://video-site.com/video` lautet!
+<div class="admonition IMPORTANT" markdown>
+<p class="admonition-title">Important</p>
+Das bedeutet auch, dass der Dateiname `video` ist, wenn die URL `https://video-site.com/video` lautet!
+</div>
+
 
 ## Optionen
 
@@ -75,8 +78,10 @@ video-manager get -s synchronous https://video-site.com/video.mp4 https://my.oth
 
 Sie können die maximale Anzahl gleichzeitiger Downloads angeben. Standardmäßig ist es `10`, und bei `0` ist es unbegrenzt.
 
-> [!NOTE]
-> Nur verfügbar, wenn die `concurrent`-Strategie verwendet wird.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+Nur verfügbar, wenn die `concurrent`-Strategie verwendet wird.
+</div>
 
 ```sh
 video-manager get -s concurrent -m 10 https://video-site.com/video.mp4 https://my.other/video.mp4

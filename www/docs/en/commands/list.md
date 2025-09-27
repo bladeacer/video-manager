@@ -30,8 +30,10 @@ video-manager list
 
 Query to search for videos.
 
-> [!NOTE]
-> RegExp is supported.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+RegExp is supported.
+</div>
 
 ```sh
 video-manager list -q "query" # Will check if "query" is in the filename
@@ -54,8 +56,10 @@ video-manager list -a mp4,mkv
 video-manager list -a mp4 -a mkv
 ```
 
-> [!NOTE]
-> This cannot be used with `--exclude`.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+This cannot be used with `--exclude`.
+</div>
 
 ### -e, --exclude (defaults to [])
 
@@ -68,8 +72,10 @@ video-manager list -e mp4,mkv
 video-manager list -e mp4 -e mkv
 ```
 
-> [!NOTE]
-> This cannot be used with `--allow`.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+This cannot be used with `--allow`.
+</div>
 
 ### Inherited
 

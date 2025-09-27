@@ -41,8 +41,10 @@ video-manager cache ls myVideoTitle
 
 Видаляє всі записи кешу, які відповідають вказаному шаблону.
 
-> [!NOTE]
-> Протокол (`https://`, `http://`, `www.`) не видаляється перед порівнянням.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+Протокол (`https://`, `http://`, `www.`) не видаляється перед порівнянням.
+</div>
 
 Шаблони порівнюються в такому порядку:
 

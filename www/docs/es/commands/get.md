@@ -32,8 +32,10 @@ video-manager get https://video-site.com/video.mp4 https://my.other/video.mp4
 Los nombres de archivo son generados con la última parte de la URL.
 Por ejemplo, si la URL es `https://video-site.com/video.mp4`, el nombre de archivo será `video.mp4`.
 
-> [!IMPORTANTE]
-> ¡Esto también significa que el nombre de archivo será `video` si la URL es `https://video-site.com/video`!
+<div class="admonition IMPORTANT" markdown>
+<p class="admonition-title">Importante</p>
+¡Esto también significa que el nombre de archivo será `video` si la URL es `https://video-site.com/video`!
+</div>
 
 ## Opciones
 
@@ -77,8 +79,10 @@ video-manager get -s synchronous https://video-site.com/video.mp4 https://my.oth
 
 Puedes especificar el número máximo de descargas concurrentes. Por defecto es `10` y es ilimitado si se establece en `0`.
 
-> [!NOTA]
-> Solo disponible cuando se utiliza la estrategia `concurrente`.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Nota</p>
+Solo disponible cuando se utiliza la estrategia `concurrente`.
+</div>
 
 ```sh
 video-manager get -s concurrent -m 10 https://video-site.com/video.mp4 https://my.other/video.mp4

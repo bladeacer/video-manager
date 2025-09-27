@@ -89,11 +89,13 @@ theme:
     - content.code.annotate
 
   markdown_extensions:
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences
     - attr_list
     - toc:
         permalink: true
     - footnotes
-
   # extra:
   #   tags:
   #     Placeholder: placeholder

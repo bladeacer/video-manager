@@ -40,8 +40,10 @@ video-manager cache ls myVideoTitle
 
 Borra todas las entradas del caché de acuerdo al patrón establecido.
 
-> [!NOTA]
-> El protocolo (`https://`, `http://`, `www.`) no es removido antes de hacer la búsqueda.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+El protocolo (`https://`, `http://`, `www.`) no es removido antes de hacer la búsqueda.
+</div>
 
 Los patrones son emparejados en el siguiente orden:
 

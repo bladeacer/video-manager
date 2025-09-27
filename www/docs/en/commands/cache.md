@@ -40,8 +40,10 @@ video-manager cache ls myVideoTitle
 
 Remove all cache entries matching the given pattern.
 
-> [!NOTE]
-> The protocol (`https://`, `http://`, `www.`) is not removed before matching.
+<div class="admonition NOTE" markdown>
+<p class="admonition-title">Note</p>
+The protocol (`https://`, `http://`, `www.`) is not removed before matching.
+</div>
 
 Patterns are matched in this order:
 

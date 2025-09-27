@@ -31,8 +31,10 @@ video-manager get https://video-site.com/video.mp4 https://my.other/video.mp4
 
 Наприклад, якщо URL-адреса `https://video-site.com/video.mp4`, ім'я файлу буде `video.mp4`.
 
-> [!IMPORTANT]
-> Це також означає, що ім'я файлу буде `video`, якщо URL-адреса `https://video-site.com/video`!
+<div class="admonition IMPORTANT" markdown>
+<p class="admonition-title">Note</p>
+Це також означає, що ім'я файлу буде `video`, якщо URL-адреса `https://video-site.com/video`!
+</div>
 
 ## Опції
 
