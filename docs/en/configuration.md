@@ -40,4 +40,4 @@ preferred_extensions:
 
 ## See Also
 
-* [Commands](./commands/index.md)
+* [Commands](./index.md)

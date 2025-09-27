@@ -6,13 +6,13 @@ Esta guia te ayudará con la instalación del proyecto
 ## Tabla de contenidos
 
 <!--toc:start-->
-- [Instalación](#instalación)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Nativamente con *Go*](#nativamente-con-go)
-  - [Con Homebrew](#con-homebrew)
-  - [Todos los sistemas operativos](#todos-los-sistemas-operativos)
-    - [GNU/Linux o MacOS](#gnulinux-o-macos)
-    - [Windows](#windows)
+<!-- - [Instalación](#instalación) -->
+<!--   - [Tabla de contenidos](#tabla-de-contenidos) -->
+<!--   - [Nativamente con *Go*](#nativamente-con-go) -->
+<!--   - [Con Homebrew](#con-homebrew) -->
+<!--   - [Todos los sistemas operativos](#todos-los-sistemas-operativos) -->
+<!--     - [GNU/Linux o MacOS](#gnulinux-o-macos) -->
+<!--     - [Windows](#windows) -->
 <!--toc:end-->
 
 ## Nativamente con *Go*

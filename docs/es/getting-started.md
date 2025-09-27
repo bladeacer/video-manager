@@ -7,11 +7,11 @@ Esta guia provee un resumen de las distintas características y opciones disponi
 ## Tabla de contenidos
 
 <!--toc:start-->
-- [¿Cómo empezar?](#cómo-empezar)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Resumen](#resumen)
-  - [Ejemplos de uso](#ejemplos-de-uso)
-  - [Mira también](#mira-también)
+<!-- - [¿Cómo empezar?](#cómo-empezar) -->
+<!--   - [Tabla de contenidos](#tabla-de-contenidos) -->
+<!--   - [Resumen](#resumen) -->
+<!--   - [Ejemplos de uso](#ejemplos-de-uso) -->
+<!--   - [Mira también](#mira-también) -->
 <!--toc:end-->
 
 ## Resumen

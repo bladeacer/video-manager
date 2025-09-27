@@ -7,14 +7,14 @@ Los siguientes comandos son utilizados para administrar el caché.
 ## Tabla de contenidos
 
 <!--toc:start-->
-- [Comandos Cache](#comandos-cache)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Comandos](#comandos)
-    - [list|ls \<pattern?\>](#listls-pattern)
-    - [remove|rm ](#removerm-)
-    - [clear|clr|wipe](#clearclrwipe)
-  - [Opciones](#opciones)
-  - [Mira también](#mira-también)
+<!-- - [Comandos Cache](#comandos-cache) -->
+<!--   - [Tabla de contenidos](#tabla-de-contenidos) -->
+<!--   - [Comandos](#comandos) -->
+<!--     - [list|ls \<pattern?\>](#listls-pattern) -->
+<!--     - [remove|rm ](#removerm-) -->
+<!--     - [clear|clr|wipe](#clearclrwipe) -->
+<!--   - [Opciones](#opciones) -->
+<!--   - [Mira también](#mira-también) -->
 <!--toc:end-->
 
 ## Comandos
@@ -63,7 +63,7 @@ video-manager cache clear
 
 ## Opciones
 
-Solo [opciones persistentes](./index,md/persistent-options)son soportadas.
+Solo [opciones persistentes](./index.md#opciones-persistentes) son soportadas.
 
 ## Mira también
 

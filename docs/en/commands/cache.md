@@ -62,7 +62,7 @@ video-manager cache clear
 
 ## Options
 
-Only [persistent options](./index,md/persistent-options) are supported.
+Only [persistent options](./index.md#persistent-options) are supported.
 
 ## See also
 

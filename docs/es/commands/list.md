@@ -7,16 +7,16 @@ This command lists all videos in your configured download location.
 ## Tabla de contenidos
 
 <!--toc:start-->
-- [The list command](#the-list-command)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Uso básico](#uso-básico)
-  - [Opciones](#opciones)
-    - [-q, --query (defaults to "")](#-q---query-defaults-to-)
-    - [-n, --count \[0 = unlimited\]](#-n---count-0--unlimited)
-    - [-a, --allow (defaults to \[\])](#-a---allow-defaults-to-)
-    - [-e, --exclude (por defecto \[\])](#-e---exclude-por-defecto-)
-    - [Heredado](#heredado)
-  - [Mira también](#mira-también)
+<!-- - [The list command](#the-list-command) -->
+<!--   - [Tabla de contenidos](#tabla-de-contenidos) -->
+<!--   - [Uso básico](#uso-básico) -->
+<!--   - [Opciones](#opciones) -->
+<!--     - [-q, --query (defaults to "")](#-q---query-defaults-to-) -->
+<!--     - [-n, --count \[0 = unlimited\]](#-n---count-0--unlimited) -->
+<!--     - [-a, --allow (defaults to \[\])](#-a---allow-defaults-to-) -->
+<!--     - [-e, --exclude (por defecto \[\])](#-e---exclude-por-defecto-) -->
+<!--     - [Heredado](#heredado) -->
+<!--   - [Mira también](#mira-también) -->
 <!--toc:end-->
 
 ## Uso básico

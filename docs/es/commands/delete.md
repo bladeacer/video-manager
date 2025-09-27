@@ -5,13 +5,13 @@ Este comando borra archivos de la biblioteca o directorio configurado.
 ## Tabla de contenidos
 
 <!--toc:start-->
-- [Comando `delete`](#comando-delete)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Uso básico](#uso-básico)
-  - [Opciones](#opciones)
-    - [-y, --yes](#-y---yes)
-    - [Heredado](#heredado)
-  - [Mira también](#mira-también)
+<!-- - [Comando `delete`](#comando-delete) -->
+<!--   - [Tabla de contenidos](#tabla-de-contenidos) -->
+<!--   - [Uso básico](#uso-básico) -->
+<!--   - [Opciones](#opciones) -->
+<!--     - [-y, --yes](#-y---yes) -->
+<!--     - [Heredado](#heredado) -->
+<!--   - [Mira también](#mira-también) -->
 <!--toc:end-->
 
 ## Uso básico
@@ -32,7 +32,7 @@ Saltar solicitud de confirmación.
 
 ### Heredado
 
-Mira las [opciones persistentes](./index.md#persistent-options) para todos opciones heredadas soportadas.
+Mira las [opciones persistentes](./index.md#opciones-persistentes) para todos opciones heredadas soportadas.
 
 ## Mira también
 

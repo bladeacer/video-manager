@@ -5,11 +5,11 @@
 ## Tabla de contenidos
 
 <!--toc:start-->
-- [Configuración](#configuración)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Resumen](#resumen)
-  - [Configuración por defecto](#configuración-por-defecto)
-  - [Mira también](#mira-también)
+<!-- - [Configuración](#configuración) -->
+<!--   - [Tabla de contenidos](#tabla-de-contenidos) -->
+<!--   - [Resumen](#resumen) -->
+<!--   - [Configuración por defecto](#configuración-por-defecto) -->
+<!--   - [Mira también](#mira-también) -->
 <!--toc:end-->
 
 ## Resumen

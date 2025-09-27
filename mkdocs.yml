@@ -104,6 +104,7 @@ nav:
   - Index: "index.md"
   - Installation: "installing.md"
   - Getting Started: "getting-started.md"
+  - Configuration: "configuration.md"
   - Commands:
     - Command Index: "commands/index.md"
     - Cache Commands: "commands/cache.md"

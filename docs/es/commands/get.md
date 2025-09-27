@@ -5,16 +5,16 @@ Descarga videos de una dirección especificada en la ruta de descarga configurad
 ## Tabla de contenidos
 
 <!--toc:start-->
-- [Comando get](#comando-get)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Uso básico](#uso-básico)
-  - [Nombre de archivo](#nombre-de-archivo)
-  - [Opciones](#opciones)
-    - [-f, --file ](#-f---file-)
-    - [-s, --strategy \<synchronous|concurrent\>](#-s---strategy-synchronousconcurrent)
-    - [-m, --max-concurrency \[0 = unlimited\] ](#-m---max-concurrency-0--unlimited-)
-    - [Heredado](#heredado)
-  - [See also](#see-also)
+<!-- - [Comando get](#comando-get) -->
+<!--   - [Tabla de contenidos](#tabla-de-contenidos) -->
+<!--   - [Uso básico](#uso-básico) -->
+<!--   - [Nombre de archivo](#nombre-de-archivo) -->
+<!--   - [Opciones](#opciones) -->
+<!--     - [-f, --file ](#-f---file-) -->
+<!--     - [-s, --strategy \<synchronous|concurrent\>](#-s---strategy-synchronousconcurrent) -->
+<!--     - [-m, --max-concurrency \[0 = unlimited\] ](#-m---max-concurrency-0--unlimited-) -->
+<!--     - [Heredado](#heredado) -->
+<!--   - [See also](#see-also) -->
 <!--toc:end-->
 
 ## Uso básico
@@ -86,9 +86,9 @@ video-manager get -s concurrent -m 10 https://video-site.com/video.mp4 https://m
 
 ### Heredado
 
-Mira las [opciones persistentes](./index.md#persistent-options) para todos opciones heredadas soportadas.
+Mira las [opciones persistentes](./index.md#opciones-persistentes) para todos opciones heredadas soportadas.
 
-See [persistent options](./index.md#persistent-options) for all the supported inherited options.
+<!-- See [persistent options](./index.md#opciones-persistentes) for all the supported inherited options. -->
 
 ## See also
 

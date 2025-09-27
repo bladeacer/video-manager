@@ -7,14 +7,14 @@
 ## Зміст
 
 <!--toc:start-->
-- [Команди cache](#команда-cache)
-  - [Зміст](#зміст)
-  - [Команди](#команди)
-    - [list|ls <pattern>](#listls-pattern)
-    - [remove|rm <pattern>](#removerm-pattern)
-    - [clear|clr|wipe](#clearclrwipe)
-  - [Опції](#опції)
-  - [Дивись також](#дивись-також)
+<!-- - [Команди cache](#команда-cache) -->
+<!--   - [Зміст](#зміст) -->
+<!--   - [Команди](#команди) -->
+<!--     - [list|ls <pattern>](#listls-pattern) -->
+<!--     - [remove|rm <pattern>](#removerm-pattern) -->
+<!--     - [clear|clr|wipe](#clearclrwipe) -->
+<!--   - [Опції](#опції) -->
+<!--   - [Дивись також](#дивись-також) -->
 <!--toc:end-->
 
 ## Команди
@@ -63,7 +63,7 @@ video-manager cache clear
 
 ## Опції
 
-Тільки [постійні опції](./index.md#постійні-опції) доступні для всіх команд.
+Тільки [постійні опції](./index.md#_2) доступні для всіх команд.
 
 ## Дивись також
 
